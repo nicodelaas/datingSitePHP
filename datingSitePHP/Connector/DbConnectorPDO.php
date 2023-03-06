@@ -2,8 +2,8 @@
 //it allows any type of database.
 
 define("serverName", "localhost:3306");
-define("database", "naskamp_datingdb");
-define("username", "naskamp_datingSitePHP");
+define("database", "naskamp_datingSitePHP");
+define("username", "naskamp_naskamp");
 define("password", "dating!12");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
