@@ -3,7 +3,7 @@
 
 define("serverName", "localhost:3306");
 define("database", "datingdb");
-define("username", "dating_site_user");
+define("username", "naskamp_datingSitePHP");
 define("password", "dating!12");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
